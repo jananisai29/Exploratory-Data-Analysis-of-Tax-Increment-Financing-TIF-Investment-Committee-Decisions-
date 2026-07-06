@@ -6,6 +6,16 @@ Exploratory-Data-Analysis-of-Tax-Increment-Financing-TIF-Investment-Committee-De
 5.To analyze approval and funding outcomes. 
 6.To draw meaningful conclusions and recommendations from the dataset.
 
+#DATA SET INFORMATION:
+1.Domain: Public Finance / Urban Development,
+2.Data Type: Structured Tabular Data (CSV),
+3.Analysis Type: Exploratory Data Analysis (EDA), Data Visualization, Trend Analysis,
+4.Number of Rows (Records): 1,698,
+5.Number of Columns (Variables): 15.
+6.Start Date: 09 July 2019
+7.End Date: 17 December 2024
+
+
 
 | Column Name         | Description                                                       |
 | ------------------- | ----------------------------------------------------------------- |
