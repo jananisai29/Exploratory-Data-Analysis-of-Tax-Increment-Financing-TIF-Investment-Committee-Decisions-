@@ -50,6 +50,18 @@ Percentage of TIF funding requested.
 Correlation between funding request and total project cost.
 Missing value and duplicate analysis.
 
+| Technology                          | Purpose                                                                                             |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Python**                          | Main programming language used for data analysis and visualization.                                 |
+| **Google Colab / Jupyter Notebook** | Development environment used to write and execute Python code.                                      |
+| **Pandas**                          | Used for data loading, cleaning, preprocessing, filtering, grouping, and analysis.                  |
+| **NumPy**                           | Used for numerical computations and handling arrays.                                                |
+| **Matplotlib**                      | Used to create basic charts such as bar charts, line charts, pie charts, histograms, and box plots. |
+| **Seaborn**                         | Used to create attractive statistical visualizations like heatmaps, count plots, and scatter plots. |
+| **CSV (Comma-Separated Values)**    | Dataset format used for storing project data.                                                       |
+| **GitHub**                          | Used for version control and hosting the project repository online.                                 |
+
+
 Project Summary 
 
 The Tax Increment Financing (TIF) Investment Committee Decisions dataset contains information on development projects that applied for TIF funding. It includes project details, funding requests, total project costs, committee decisions, meeting dates, and project.
