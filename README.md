@@ -52,4 +52,5 @@ Missing value and duplicate analysis.
 
 Project Summary 
 
-The Tax Increment Financing (TIF) Investment Committee Decisions dataset contains information on development projects that applied for TIF funding. It includes project details, funding requests, total project costs, committee decisions, meeting dates, and project locations. By analyzing this dataset using Python and visualization techniques, we can identify funding patterns, approval trends, location-wise investment, and other insights that support better decision-making in urban development and public finance.
+The Tax Increment Financing (TIF) Investment Committee Decisions dataset contains information on development projects that applied for TIF funding. It includes project details, funding requests, total project costs, committee decisions, meeting dates, and project.
+locations. By analyzing this dataset using Python and visualization techniques, we can identify funding patterns, approval trends, location-wise investment, and other insights that support better decision-making in urban development and public finance.
