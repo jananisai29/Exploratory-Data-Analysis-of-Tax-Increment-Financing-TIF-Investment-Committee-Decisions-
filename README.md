@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-of-Tax-Increment-Financing-TIF-Investment-Committee-Decisions-
+#OBJECTIVE: 1.To study the TIF Investment Committee Decisions dataset. 2.To clean and prepare the data for analysis. 3.To identify trends and patterns in investment decisions. 4.To visualize important variables using charts and graphs. 5.To analyze approval and funding outcomes. 6.To draw meaningful conclusions and recommendations from the dataset.
